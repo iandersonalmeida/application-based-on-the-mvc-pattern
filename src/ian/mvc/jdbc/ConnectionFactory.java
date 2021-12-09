@@ -10,7 +10,7 @@ public class ConnectionFactory {
 	{
 		try
 		{
-			return DriverManager.getConnection("jdbc:mysql://localhost/datastorage", "root", "mariaian");
+			return DriverManager.getConnection("jdbc:mysql://localhost/datastorage", "root", "");
 		}catch(SQLException e)
 		{
 			throw new RuntimeException(e);
