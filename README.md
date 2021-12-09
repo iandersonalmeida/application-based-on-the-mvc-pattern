@@ -17,7 +17,7 @@ Based on the MVC (Model-View-Controller) architecture this application through <
 git clone (repository)
 ```
 ## Executing program
-- Crie um banco de dados com uma ou mais tabelas
-- No o ambiente de desenvolvimento, defina o banco de dados a ser usado em ConnectionFactory com o root e a senha.
-- Defina instruções SQL em ModelDao
+- Create a database with one or more tables.
+- In the development environment, define the database to be used in ConnectionFactory with the root and password.
+- Define SQL statements in ModelDao.
  
