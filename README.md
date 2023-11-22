@@ -1,4 +1,4 @@
-# Data Storage Application
+# Data Storage System
 This application requests data from the user and stores this data in a database.
  
 # Description
