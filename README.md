@@ -1,4 +1,4 @@
-# Data Storage System
+# Application based on the MVC pattern
 This application requests data from the user and stores this data in a database.
  
 # Description
